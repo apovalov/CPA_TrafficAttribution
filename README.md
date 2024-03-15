@@ -13,8 +13,6 @@ Traffic attribution is a set of rules that are used to assign a value to channel
 Basic traffic attribution models
 Let's look at a few popular methods of how you can perform customer engagement attribution on advertising channels (customer touchpoints).
 
-Translated with www.DeepL.com/Translator (free version)
-
 1. Last Touch: In this method, the full weight of attribution is given to the last contact before conversion. It's a simple method, but it can underestimate the value of previous contacts.
 2. First Touch / First Touch: All the credit is given to the first contact in the buyer's journey. This method may underestimate the value of subsequent steps. 
 3. Linear: All touches in the buyer's journey are given equal weight.
